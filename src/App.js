@@ -1,11 +1,10 @@
-import StopWatch from 'Components/';
+
 import './App.css';
-import React from 'react';
-import Components  from 'Components/StopWatch/StopWatch.js'
+import StopWatch  from 'Components/StopWatch/StopWatch.js'
 function App() {
   return (
     <div className="App">
-      <Stopwatch />
+      <StopWatch />
         </div>
     
     
