@@ -39,7 +39,7 @@ function StopWatch () {
     };
     
     return (
-        <div className="stop-watch ">
+        <div className="stop-watch">
 <Timer time={time} />
 <ControlButtons active={isActive}
 isPaused={isPaused}

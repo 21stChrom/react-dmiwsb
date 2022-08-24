@@ -1,6 +1,6 @@
 
 import './App.css';
-import StopWatch  from 'Components/StopWatch/StopWatch.js'
+import StopWatch  from 'Components/StopWatch/StopWatch.js';
 function App() {
   return (
     <div className="App">
